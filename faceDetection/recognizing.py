@@ -119,7 +119,7 @@ while True:
                 time.sleep(1)
                 try:
                     gmail_user = 'onemanarmy228@gmail.com'
-                    gmail_password = 'aa36359948'
+                    gmail_password = 'nopassword'
                     sent_from = gmail_user
                     to = ['as.tarlan02@gmail.com', 'onemanarmy228@gmail.com']
                     subject = 'Face was detected!!'
